@@ -1,0 +1,30 @@
+{
+  "user": {
+    "id": 27392,
+    "name": "Demo 10 TRMNL",
+    "first_name": "Demo 10",
+    "last_name": "TRMNL",
+    "locale": "en",
+    "time_zone": "Berlin",
+    "time_zone_iana": "Europe/Berlin",
+    "utc_offset": 3600
+  },
+  "device": {
+    "friendly_id": "3JRMN2",
+    "percent_charged": 73.33,
+    "wifi_strength": 50,
+    "height": 480,
+    "width": 800
+  },
+  "system": {
+    "timestamp_utc": 1769718496
+  },
+  "plugin_settings": {
+    "instance_name": "OpenRouter Credits",
+    "strategy": "polling",
+    "dark_mode": "no",
+    "no_screen_padding": "no",
+    "polling_headers": "authorization=bearer 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&content-type=application/json",
+    "polling_url": "https://openrouter.ai/api/v1/credits\r\n"
+  }
+}
